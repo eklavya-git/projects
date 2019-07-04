@@ -1,0 +1,14 @@
+###############################
+## Ignoring project and classpath files
+
+.project
+.classpath
+
+###############################
+
+##Ignore bin directory
+
+bin/
+
+###############################
+
